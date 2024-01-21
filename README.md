@@ -18,7 +18,7 @@ You should pass the location name to get weather forcast for that city.
 
 ##Steps to execute the project:
 
-1. Download the project at desired location from git repo - 
+1. Download the project at desired location from git repo - https://github.com/NikitaSarda/WeatherForcast.git
 2. Import the project into Eclipse/IntelliJ
 3. Execute command to build the project : mvn clean install
 4. Change the "X-RapidAPI-Key" in properties file if required.
