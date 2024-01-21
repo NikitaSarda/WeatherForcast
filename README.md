@@ -8,15 +8,15 @@ Create a server by using SpringBoot Java and integrate Weather API from Rapid AP
 This project helps to get weather forecast summary and hourly forcast summary of particular city.
 You should pass the location name to get weather forcast for that city.
  
-## Setup
+# Setup
 
-# Prerequisites:
+## Prerequisites:
 
 1. Install the Java 17 version and Maven.
 2. Set the environment variables
 
 
-#Steps to execute the project:
+##Steps to execute the project:
 
 1. Download the project at desired location from git repo - 
 2. Import the project into Eclipse/IntelliJ
